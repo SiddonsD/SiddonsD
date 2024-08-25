@@ -1,5 +1,11 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+<picture>
+
+[//]: # ( <source media="&#40;prefers-color-scheme: dark&#41;" srcset="YOUR-DARKMODE-IMAGE">)
+
+[//]: # ( <source media="&#40;prefers-color-scheme: light&#41;" srcset="YOUR-LIGHTMODE-IMAGE">)
+ <img alt="YOUR-ALT-TEXT" src="./github-header-image _siddonsd.png">
+</picture>
 </div>
 
 
@@ -11,35 +17,33 @@
 <p align="left">My name is ... and I'm a ..., from ....</p>
 
 ###
-
-
 <h2 align="left">👩‍💻  About Me</h2>
 
-###
-
 <p align="left">
-✨ Creating bugs since ...<br>
-🌱 I'm currently learning ...<br>
-👀 I’m interested in ...<br>
-💞️ I’m looking to collaborate on ...<br>
-🎯 Goals: ...<br>
-🎲 Fun fact: ...<br>
-⚡ In my free time I ...
+<h4>✨ Creating bugs since 2023<br>
+🌱 I'm currently studying a Cert IV in Programming at North Metropolitan TAFE<br>
+and self-directed learning thourh x, x and x<br>
+👀 I’m interested in digital transformation, managing data and systems integration<br>
+💞️ I’m looking to collaborate on open source projects and hackathons<br>
+🎯 Goals: to secure a Software Developer role and complete a 12km fun run<br>
+🎲 Fun fact: I once abseiled 135m down Allendale Square, a 31 storey tower in the heart of Perth CBD <br>
+⚡  In my free time I can be found and trying to convince myself I am a runner...</h4>
 
 ###
-<h3 align="left">📫 How to reach me</h3>
-###
+<h3 align="left">📫  Get in touch</h3>
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+
+[//]: # (  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />)
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
 </div>
 
-<h2 align="left">🛠 ✨ I have experience with:</h2>
-
 ###
-<h3 align="left">Language and frameworks</h3>
+<h2 align="left">✨ I have experience with:</h2>
+###
+<h3 align="left">🛠 Language and frameworks</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -62,12 +66,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" alt="tailwindcss logo"  />
   <img width="12" />
 <div/>
 
 ###
-<h3 align="left">Software and tools</h3>
+<h3 align="left">🛠 Software and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
@@ -90,7 +94,7 @@
 </div>
  
 ###
-<h3 align="left">Design and creative</h3>
+<h3 align="left">🛠 Design and creative</h3>
 
 <div align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
@@ -106,17 +110,17 @@
 </div>
 
 ###
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥My Stats:</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SiddonsD&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[//]: # (  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />)
 </div>
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-<div align="right">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
