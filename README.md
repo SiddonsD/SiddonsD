@@ -114,10 +114,7 @@ and learning through Code Academy, x and Figma<br>
 <h2 align="left">🔥My Stats:</h2>
 <<<<<<< HEAD
 [![GitHub Streak](https://readme-streak-stats-qay4czd4j-denises-projects-b425a021.vercel.app/?user=SiddonsD&theme=algolia&hide_border=true)](https://git.io/streak-stats)
-=======
-
-[![GitHub Streak](https://readme-streak-stats-qay4czd4j-denises-projects-b425a021.vercel.app/?user=SiddonsD&theme=algolia&hide_border=true&cache_bust=1)](https://git.io/streak-stats)
->>>>>>> 35485f597fafb5dc41dd9d0e5544e40265f8e7ac
+<img src="https://readme-streak-stats-qay4czd4j-denises-projects-b425a021.vercel.app/?user=SiddonsD&theme=algolia&hide_border=true" width="400">
 
 _generated with [DenverCoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)_
 
