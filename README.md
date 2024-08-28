@@ -113,14 +113,9 @@ and learning through Code Academy, x and Figma<br>
 ###
 <h2 align="left">🔥My Stats:</h2>
 
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SidonsD)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://readme-streak-stats-qay4czd4j-denises-projects-b425a021.vercel.app/?user=SiddonsD&theme=algolia)](https://git.io/streak-stats)
 
 _generated with [DenverCoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)_
-
-[//]: # (  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />)
-
 
 ![](https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/languages.svg#gh-dark-mode-only)
