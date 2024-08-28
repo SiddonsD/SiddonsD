@@ -41,9 +41,9 @@ and learning through Code Academy, x and Figma<br>
 </div>
 
 ###
-<h2 align="left">✨ I have experience with:</h2>
+<h2 align="left">🛠 I have experience with:</h2>
 ###
-<h3 align="left">🛠 Language and frameworks</h3>
+<h3 align="left">Language and frameworks</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -71,7 +71,7 @@ and learning through Code Academy, x and Figma<br>
 <div/>
 
 ###
-<h3 align="left">🛠 Software and tools</h3>
+<h3 align="left">Software and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
@@ -94,7 +94,7 @@ and learning through Code Academy, x and Figma<br>
 </div>
  
 ###
-<h3 align="left">🛠 Design and creative</h3>
+<h3 align="left">Design and creative</h3>
 
 <div align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
@@ -118,14 +118,10 @@ and learning through Code Academy, x and Figma<br>
 [//]: # (  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />)
 </div>
 
+![](https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
+_generated with [jstrieb/github-stats](https://github.com/jstrieb/github-stats)_
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiddonsD/SiddonsD/output/dist/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiddonsD/SiddonsD/output/dist/github-contribution-grid-snake.svg">
@@ -134,10 +130,10 @@ and learning through Code Academy, x and Figma<br>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 ###
-
-<h3 align="left"> Resources:</h3>
-<p align="left">✨ I leveled up this README.md with the help of some fantastic repos - check them out and show them some love.</p>
-
+<h3 align="left">✨ Resources:</h3>
+<p align="left"> I leveled up this README with the help of some fantastic repos - check them out and show them some love.</p></b>
+[Platane/snk](https://github.com/Platane/snk): Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif.</p></div>
+[jstrieb/github-stats](https://github.com/jstrieb/github-stats):GitHub statistics images for your profile, with stats from private repos too</p>
 ###
 
 <!---
