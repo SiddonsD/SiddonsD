@@ -132,6 +132,7 @@ and learning through Code Academy, x and Figma<br>
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 ###
 
