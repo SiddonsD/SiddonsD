@@ -71,6 +71,7 @@ and learning through Code Academy, x and Figma<br>
 <div/>
 
 ###
+
 <h3 align="left">Software and tools</h3>
 
 <div align="left">
@@ -113,10 +114,13 @@ and learning through Code Academy, x and Figma<br>
 <h2 align="left">🔥My Stats:</h2>
 
 <div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SiddonsD&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SidonsD)](https://git.io/streak-stats)
+</div>
+
+_generated with [DenverCoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)_
 
 [//]: # (  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />)
-</div>
+
 
 ![](https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/languages.svg#gh-dark-mode-only)
@@ -134,7 +138,8 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 <p align="left"> I leveled up this README with the help of some fantastic repos - check them out and show them some love.</p></b>
 [Platane/snk](https://github.com/Platane/snk): Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif.</p></div>
 [jstrieb/github-stats](https://github.com/jstrieb/github-stats):GitHub statistics images for your profile, with stats from private repos too</p>
-###
+Display your total contributions, current streak, and longest streak 
+##
 
 <!---
 SiddonsD/SiddonsD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
