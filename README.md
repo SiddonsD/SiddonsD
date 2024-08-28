@@ -20,10 +20,10 @@
 <h2 align="left">👩‍💻  About Me</h2>
 
 <p align="left">
-<h4>✨ Creating bugs since 2023<br>
-🌱 I'm currently studying a Cert IV in Programming at North Metropolitan TAFE<br>
-and self-directed learning thourh x, x and x<br>
-👀 I’m interested in digital transformation, managing data and systems integration<br>
+<h4>✨ Creating and finding bugs since 2023<br>
+🌱 Studying a Cert IV in Programming at North Metropolitan TAFE<br>
+and learning through Code Academy, x and Figma<br>
+👀 Interested in helping businesses with digital transformation, data and systems integration<br>
 💞️ I’m looking to collaborate on open source projects and hackathons<br>
 🎯 Goals: to secure a Software Developer role and complete a 12km fun run<br>
 🎲 Fun fact: I once abseiled 135m down Allendale Square, a 31 storey tower in the heart of Perth CBD <br>
@@ -113,7 +113,7 @@ and self-directed learning thourh x, x and x<br>
 <h2 align="left">🔥My Stats:</h2>
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SiddonsD&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SiddonsD&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [//]: # (  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />)
 </div>
@@ -121,19 +121,22 @@ and self-directed learning thourh x, x and x<br>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 ###
 
 <h3 align="left"> Resources:</h3>
-<p align="left">✨ Here are the links to the resources I have used in this README.md</p>
+<p align="left">✨ I leveled up this README.md with the help of some fantastic repos - check them out and show them some love.</p>
 
 ###
 
