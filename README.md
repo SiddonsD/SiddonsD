@@ -20,12 +20,14 @@ and learning through Code Academy, x and Figma<br>
 
 ###
 <h3>📫  Get in touch</h3>
-
+<div>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 
 [//]: # (  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />)
+
 [//]: # (  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />)
+</div>
 
 ###
 <h2 align="left">🛠 I have experience with:</h2>
@@ -54,7 +56,6 @@ and learning through Code Academy, x and Figma<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" alt="tailwindcss logo"  />
   <img width="12" />
 </div>
-###
 
 <h3 align="left">Software and tools</h3>
 <div>
@@ -94,7 +95,9 @@ and learning through Code Academy, x and Figma<br>
 
 ###
 <h2 align="left">🔥My Stats:</h2>
-[![GitHub Streak](https://readme-streak-stats-7bziihp3e-denises-projects-b425a021.vercel.app?user=SiddonsD&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<img src="https://readme-streak-stats-7bziihp3e-denises-projects-b425a021.vercel.app/?user=SiddonsD&theme=algolia&hide_border=true" alt="GitHub Streak">
+
+[//]: # ([![GitHub Streak]&#40;https://readme-streak-stats-7bziihp3e-denises-projects-b425a021.vercel.app?user=SiddonsD&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&#41;]&#40;https://git.io/streak-stats&#41;)
 
 _generated with [DenverCoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)_
 
