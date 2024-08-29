@@ -28,10 +28,8 @@ and learning through Code Academy, x and Figma<br>
 [//]: # (  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />)
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
 
-
 ###
 <h2 align="left">🛠 I have experience with:</h2>
-###
 <h3 align="left">Language and frameworks</h3>
 
 <div="left">
@@ -100,7 +98,7 @@ and learning through Code Academy, x and Figma<br>
 
 ###
 <h2 align="left">🔥My Stats:</h2>
-[![GitHub Streak](https://readme-streak-stats-7bziihp3e-denises-projects-b425a021.vercel.app?user=SiddonsD&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)]
+![GitHub Streak](https://readme-streak-stats-7bziihp3e-denises-projects-b425a021.vercel.app?user=SiddonsD&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)
 _generated with [DenverCoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)_
 
 ![](https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/overview.svg#gh-dark-mode-only)
