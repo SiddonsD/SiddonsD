@@ -101,10 +101,19 @@ and learning through Code Academy, x and Figma<br>
 
 _generated with [DenverCoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)_
 
-<div>
-  <img srcset="https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" />
-  <img src="https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
-</div>
+<!-- Overview Image -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/overview.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/overview.svg">
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/overview.svg">
+</picture>
+
+<!-- Languages Image -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/languages.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/languages.svg">
+  <img alt="GitHub Languages" src="https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/languages.svg">
+</picture>
 
 _generated with [jstrieb/github-stats](https://github.com/jstrieb/github-stats)_
 
