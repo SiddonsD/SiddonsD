@@ -102,7 +102,7 @@ and learning through Code Academy, x and Figma<br>
 _generated with [DenverCoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)_
 
 <div>
-  <img src="https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" />
+  <img srcset="https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" />
   <img src="https://raw.githubusercontent.com/SiddonsD/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
 </div>
 
